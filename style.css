@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:lightgoldenrodyellow;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    background-color:rgb(158, 210, 207);
+}
+.con1,.con2,.con3{
+    width: 100vh;
+    font-size: 19px;
+    margin: 15px 0;
+    padding: 10px;
+    background-color: rgb(250, 250, 251);
+    border-radius: 16px;
+}
+dt{
+    font-weight: bold;
+    color: palevioletred;
+    font-size: 19px;
+    margin: 0;
+    margin-bottom: 10px;
+}
